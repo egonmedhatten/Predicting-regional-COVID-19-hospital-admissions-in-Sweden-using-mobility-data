@@ -3,3 +3,6 @@ scipy
 numpy
 pandas
 openpyxl
+tqdm
+ipywidgets
+tol_colors
