@@ -5,4 +5,6 @@ pandas
 openpyxl
 tqdm
 ipywidgets
-tol_colors
+scikit-learn 
+joblib
+joblib-progress
