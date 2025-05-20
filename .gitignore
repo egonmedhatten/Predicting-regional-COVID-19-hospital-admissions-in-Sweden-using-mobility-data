@@ -1,3 +1,5 @@
 inlagda.csv
 tid.csv
 plots/
+results/
+*.sh
